@@ -1,2 +1,2 @@
 # Stagewise-Mini-Project
-Creating Watch Later List for Stagewise Mini Project for the internship process 
+Creating Watch  Later List for Stagewise Mini Project for the internship process 
