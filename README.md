@@ -29,9 +29,9 @@ A simple web application to manage your watchlist of movies and TV shows.
 
 ## Technologies Used
 
-- **HTML**: Used for structuring the web pages.
-- **JavaScript**: Implemented functionality and interactivity.
-- **Bootstrap**: Styling and responsive design.
+- HTML: Used for structuring the web pages.
+- JavaScript: Implemented functionality and interactivity.
+- Bootstrap: Styling and responsive design.
 
 ## How to Use
 
@@ -41,6 +41,4 @@ A simple web application to manage your watchlist of movies and TV shows.
 4. View, edit, or delete items from the My Watchlist modal.
 
 
-[![HTML5 Logo](logos/html5-logo.png)](https://www.w3.org/html/)
-[![JavaScript Logo](logos/javascript-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Bootstrap Logo](logos/bootstrap-logo.png)](https://getbootstrap.com/)
+
